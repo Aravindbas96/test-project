@@ -1,0 +1,17 @@
+.todo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:10px;
+    font-size: 18px;
+}
+
+.todo_buttons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 18px;
+    gap:10px;
+  }
+  
+
